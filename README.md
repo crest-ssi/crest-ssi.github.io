@@ -4,6 +4,11 @@ This is the homepage of the CREST SSI Research Cluster
 
 This website is built on the Agency Jekyll theme and hosted using GitHub Page. The original readme of the theme is included below. 
 
+# URL
+
+Site hosted at [crest-ssi.github.io](https://crest-ssi.github.io) and [ssi.crest-centre.net](ssi.crest-centre.net). 
+
+
 Agency Jekyll theme
 ====================
 
