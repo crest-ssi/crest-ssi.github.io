@@ -6,7 +6,7 @@ This website is built on the Agency Jekyll theme and hosted using GitHub Page. T
 
 # URL
 
-Site hosted at [crest-ssi.github.io](https://crest-ssi.github.io) and [ssi.crest-centre.net](ssi.crest-centre.net). 
+Site hosted at [crest-ssi.github.io](https://crest-ssi.github.io) and [ssi.crest-centre.net](https://ssi.crest-centre.net). 
 
 
 Agency Jekyll theme
