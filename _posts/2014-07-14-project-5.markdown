@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 13/12/2021
 img: phishing.jpg
-thumbnail: phishing-thumbnail.jpg
+thumbnail: phishing-thumbnail.png
 alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
