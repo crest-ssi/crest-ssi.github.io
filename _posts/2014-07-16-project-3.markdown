@@ -4,8 +4,8 @@ subtitle: Knowledge
 layout: default
 modal-id: 3
 date: 13/12/2021
-img: BC_IoT.jpg
-thumbnail: BC_IoT-thumbnail.jpg
+img: papers.jpg
+thumbnail: papers-thumbnail.jpg
 alt: ccop-architecture
 project-date: March 2022
 client: Start Bootstrap

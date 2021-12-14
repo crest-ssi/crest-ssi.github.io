@@ -4,8 +4,8 @@ subtitle: Application
 layout: default
 modal-id: 1
 date: 13/12/2021
-img: prototyping_framework.jpg
-thumbnail: prototyping_framework-thumbnail.jpg
+img: jit_svp.jpg
+thumbnail: jit_svp-thumbnail.png
 alt: svp
 project-date: March 2022
 client: Start Bootstrap

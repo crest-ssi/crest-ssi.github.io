@@ -4,8 +4,8 @@ subtitle: Architecture
 layout: default
 modal-id: 7
 date: 13/12/2021
-img: ccop_ai.jpg
-thumbnail: ccop_ai-thumbnail.jpg
+img: AI.jpg
+thumbnail: AI-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -4,8 +4,8 @@ subtitle: Knowledge
 layout: default
 modal-id: 2
 date: 13/12/2021
-img: design_space.jpg
-thumbnail: design_space-thumbnail.jpg
+img: data_quality.jpg
+thumbnail: data_quality-thumbnail.png
 alt: image-alt
 project-date: March 2022
 client: Start Bootstrap

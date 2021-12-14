@@ -4,8 +4,8 @@ subtitle: Application
 layout: default
 modal-id: 4
 date: 13/12/2021
-img: BC_edge.jpg
-thumbnail: BC_edge-thumbnail.jpg
+img: AI.jpg
+thumbnail: AI-thumbnail.png
 alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
