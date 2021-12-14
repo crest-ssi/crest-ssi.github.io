@@ -1,0 +1,26 @@
+---
+title: Automated Security Configuration and Compliance of Containerized Infrastructure
+subtitle: Application
+layout: default
+modal-id: 4
+date: 13/12/2021
+img: BC_edge.jpg
+thumbnail: BC_edge-thumbnail.jpg
+alt: image-alt
+project-date: March 2022
+client: Start Bootstrap
+category: Analytics and Intelligence
+description: TBD
+---
+
+# Overview
+
+TBD. 
+
+# Publications
+
+TBD.
+
+# Team Members
+
+- Mubin Ul Haque

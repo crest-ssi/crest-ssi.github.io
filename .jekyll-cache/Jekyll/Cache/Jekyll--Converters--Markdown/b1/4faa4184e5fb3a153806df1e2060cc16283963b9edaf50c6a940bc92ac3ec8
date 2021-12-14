@@ -1,0 +1,18 @@
+I"˜<h1 id="overview">Overview</h1>
+<p>AI-based and data-driven solutions for software vulnerability analytics are being increasingly accepted by industry. Snyk, one of the biggest security vendors, uses an AI engine for their source code analysis tool.</p>
+
+<p>However, data and information quality serves as a major limiting barrier to any data-driven approach. Reliance on software vulnerability reporting practices leads to weak label indicators and poor data quality.</p>
+
+<p>In this project, we analyse the data quality of software vulnerability information sources, and provide robust methods to overcome such challenges.</p>
+
+<h1 id="publication">Publication</h1>
+
+<p><a href="https://arxiv.org/abs/2109.05740">Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review. 2021.</a></p>
+
+<h1 id="project-members">Project Members</h1>
+
+<ul>
+  <li>Triet Le</li>
+  <li>Roland Croft</li>
+</ul>
+:ET

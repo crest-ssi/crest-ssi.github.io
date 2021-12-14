@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CREST SSI</title>
+    <description>Software Security Intelligence Research Cluster</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 13 Dec 2021 23:12:12 +1030</pubDate>
+    <lastBuildDate>Mon, 13 Dec 2021 23:12:12 +1030</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Just-in-time Software Vulnerability Detection and Assessment</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;TBD.&lt;/p&gt;
+
+&lt;h1 id=&quot;publications&quot;&gt;Publications&lt;/h1&gt;
+
+&lt;h1 id=&quot;project-members&quot;&gt;Project Members&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Triet Le&lt;/li&gt;
+  &lt;li&gt;Roland Croft&lt;/li&gt;
+  &lt;li&gt;David Hin&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-1/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+      <item>
+        <title>Data Quality for Software Vulnerability Intelligence</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;AI-based and data-driven solutions for software vulnerability analytics are being increasingly accepted by industry. Snyk, one of the biggest security vendors, uses an AI engine for their source code analysis tool.&lt;/p&gt;
+
+&lt;p&gt;However, data and information quality serves as a major limiting barrier to any data-driven approach. Reliance on software vulnerability reporting practices leads to weak label indicators and poor data quality.&lt;/p&gt;
+
+&lt;p&gt;In this project, we analyse the data quality of software vulnerability information sources, and provide robust methods to overcome such challenges.&lt;/p&gt;
+
+&lt;h1 id=&quot;publication&quot;&gt;Publication&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2109.05740&quot;&gt;Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review. 2021.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;project-members&quot;&gt;Project Members&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Triet Le&lt;/li&gt;
+  &lt;li&gt;Roland Croft&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-2/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+      <item>
+        <title>Large-Scale Automatic Security Knowledge Retrieval and Analysis</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;Developer-centric security aims to empower developers to be capable of individually achieving an organisation’s security goals. At the base, developers need adequate security knowlege and awareness to achieve such aims.&lt;/p&gt;
+
+&lt;p&gt;However, in the mordern software security landscape, a secure software developer is required to know and memorize thousands of security weaknesses and patterns to defend against, and this list of required knowledge is growing every day. Developers cannot keep up with the abundance of security information that they need to process.&lt;/p&gt;
+
+&lt;p&gt;In this project, we provide tools and services to automatically disseminate large-scale security knowledge from open sources.&lt;/p&gt;
+
+&lt;h1 id=&quot;publication&quot;&gt;Publication&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3379597.3387443&quot;&gt;PUMiner: Mining Security Posts from Developer Question and Answer Websites with PU Learning. 2020.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3382494.3410693?casa_token=MIvAbNMR9CkAAAAA:z7G1V67qebsfJ4USRZtSACIaxIdH89mr5SGOkiajYNQa8YUI2-Ss-JeQ1pF3PAHbd4Xl9-40XRBjrw&quot;&gt;Challenges in Docker Development: A Large-scale Study Using Stack Overflow. 2020.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3463274.3463331&quot;&gt;A Large-scale Study of Security Vulnerability Support on Developer Q&amp;amp;A Websites. 2021.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://link.springer.com/article/10.1007/s10664-021-10054-w&quot;&gt;An empirical study of developers’ discussions about security challenges of different programming languages. 2022.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;project-team&quot;&gt;Project Team&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Triet Le&lt;/li&gt;
+  &lt;li&gt;Roland Croft&lt;/li&gt;
+  &lt;li&gt;Mubin Ul Haque&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-3/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+      <item>
+        <title>Automated Security Configuration and Compliance of Containerized Infrastructure</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;TBD.&lt;/p&gt;
+
+&lt;h1 id=&quot;publications&quot;&gt;Publications&lt;/h1&gt;
+
+&lt;p&gt;TBD.&lt;/p&gt;
+
+&lt;h1 id=&quot;team-members&quot;&gt;Team Members&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mubin Ul Haque&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-4/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+      <item>
+        <title>Adversarial Machine Learning against ML-based Phishing Detectors</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;TBD.&lt;/p&gt;
+
+&lt;h1 id=&quot;publications&quot;&gt;Publications&lt;/h1&gt;
+
+&lt;h1 id=&quot;team-members&quot;&gt;Team Members&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bushra Sabir&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-5/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+      <item>
+        <title>Security Assurance of Software Supply Chains</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;Coming soon…&lt;/p&gt;
+
+&lt;h1 id=&quot;publications&quot;&gt;Publications&lt;/h1&gt;
+
+&lt;h1 id=&quot;team-members&quot;&gt;Team Members&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Yongzheng (Craig) Xie&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-6/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+      <item>
+        <title>Secure Software Engineering for Industrial AI-based Systems</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;TBD.&lt;/p&gt;
+
+&lt;h1 id=&quot;publications&quot;&gt;Publications&lt;/h1&gt;
+
+&lt;h1 id=&quot;team-members&quot;&gt;Team Members&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Huaming Chen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +1030</pubDate>
+        <link>http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/analytics%20and%20intelligence/2021/12/13/project-7/</guid>
+        
+        
+        <category>Analytics and Intelligence</category>
+        
+      </item>
+    
+  </channel>
+</rss>

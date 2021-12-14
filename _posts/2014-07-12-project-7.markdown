@@ -1,0 +1,23 @@
+---
+title: Secure Software Engineering for Industrial AI-based Systems
+subtitle: Architecture
+layout: default
+modal-id: 7
+date: 13/12/2021
+img: ccop_ai.jpg
+thumbnail: ccop_ai-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Analytics and Intelligence
+description: TBD
+---
+# Overview
+
+TBD. 
+
+# Publications
+
+# Team Members
+
+- Huaming Chen

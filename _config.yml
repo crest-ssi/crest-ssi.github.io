@@ -1,0 +1,78 @@
+# url: https://127.0.0.1
+# baseurl: ""
+
+url: http://ssi.crest-centre.net
+baseurl: ""
+
+# Site settings
+title: CREST SSI
+email: roland.croft@adelaide.edu.au
+description: "Software Security Intelligence Research Cluster"
+
+
+# Team names, titles and social links
+people:
+- name: Prof. M. Ali Babar
+  pic: ali
+  position: CREST Director
+  social:
+    - title: twitter
+      url: https://twitter.com/alibabar
+
+- name: Dr. Huaming Chen
+  pic: huaming
+  position: Researcher
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+- name: Triet Le
+  pic: triet
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+- name: Roland Croft
+  pic: roland
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/CroftRoland
+
+- name: Yongzheng (Craig) Xie
+  pic: craig
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+      
+- name: Mubin Ul Haque
+  pic: mubin
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+- name: Bushra Sabir
+  pic: bushra
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/crest_uofa
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: The University of Adelaide
+  - line: Ingkarni Wardli
+  - line: Adelaide SA 5005
+
+# Build settings
+markdown: kramdown
+permalink: pretty

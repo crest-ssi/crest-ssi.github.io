@@ -1,0 +1,30 @@
+---
+title: Data Quality for Software Vulnerability Intelligence
+subtitle: Knowledge
+layout: default
+modal-id: 2
+date: 13/12/2021
+img: design_space.jpg
+thumbnail: design_space-thumbnail.jpg
+alt: image-alt
+project-date: March 2022
+client: Start Bootstrap
+category: Analytics and Intelligence
+description: Analysis and assessment of data quality for software vulnerability data sets and sources. 
+---
+
+# Overview
+AI-based and data-driven solutions for software vulnerability analytics are being increasingly accepted by industry. Snyk, one of the biggest security vendors, uses an AI engine for their source code analysis tool.   
+
+However, data and information quality serves as a major limiting barrier to any data-driven approach. Reliance on software vulnerability reporting practices leads to weak label indicators and poor data quality.  
+
+In this project, we analyse the data quality of software vulnerability information sources, and provide robust methods to overcome such challenges.  
+
+# Publication
+
+[Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review. 2021.](https://arxiv.org/abs/2109.05740)
+
+# Project Members
+
+- Triet Le
+- Roland Croft

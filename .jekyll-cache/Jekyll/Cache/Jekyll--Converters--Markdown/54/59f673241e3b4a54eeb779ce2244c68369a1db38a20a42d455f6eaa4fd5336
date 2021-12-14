@@ -1,0 +1,23 @@
+I"�<h1 id="overview">Overview</h1>
+
+<p>Developer-centric security aims to empower developers to be capable of individually achieving an organisation’s security goals. At the base, developers need adequate security knowlege and awareness to achieve such aims.</p>
+
+<p>However, in the mordern software security landscape, a secure software developer is required to know and memorize thousands of security weaknesses and patterns to defend against, and this list of required knowledge is growing every day. Developers cannot keep up with the abundance of security information that they need to process.</p>
+
+<p>In this project, we provide tools and services to automatically disseminate large-scale security knowledge from open sources.</p>
+
+<h1 id="publication">Publication</h1>
+
+<p><a href="https://dl.acm.org/doi/abs/10.1145/3379597.3387443">PUMiner: Mining Security Posts from Developer Question and Answer Websites with PU Learning. 2020.</a><br />
+<a href="https://dl.acm.org/doi/abs/10.1145/3382494.3410693?casa_token=MIvAbNMR9CkAAAAA:z7G1V67qebsfJ4USRZtSACIaxIdH89mr5SGOkiajYNQa8YUI2-Ss-JeQ1pF3PAHbd4Xl9-40XRBjrw">Challenges in Docker Development: A Large-scale Study Using Stack Overflow. 2020.</a><br />
+<a href="https://dl.acm.org/doi/abs/10.1145/3463274.3463331">A Large-scale Study of Security Vulnerability Support on Developer Q&amp;A Websites. 2021.</a><br />
+<a href="https://link.springer.com/article/10.1007/s10664-021-10054-w">An empirical study of developers’ discussions about security challenges of different programming languages. 2022.</a></p>
+
+<h1 id="project-team">Project Team</h1>
+
+<ul>
+  <li>Triet Le</li>
+  <li>Roland Croft</li>
+  <li>Mubin Ul Haque</li>
+</ul>
+:ET
