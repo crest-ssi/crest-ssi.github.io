@@ -21,7 +21,7 @@ people:
     - title: twitter
       url: https://twitter.com/alibabar
     - title: linkedin
-      url: https://au.linkedin.com/in/muhammad-ali-babar-5bb4884
+      url: https://www.linkedin.com/in/ali-babar-5bb4884
 
 - name: Triet Le
   pic: triet
@@ -71,6 +71,24 @@ people:
       url: https://twitter.com/Bushra_Sabir
     - title: linkedin
       url: https://www.linkedin.com/in/bushra-sabir-8a51086a/
+      
+- name: Mehdi Kholoosi
+  pic: mehdi
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/MehdiKholoosi
+    - title: linkedin
+      url: https://www.linkedin.com/in/mehdi-kholoosi/
+      
+- name: Ali Kazemi Arani
+  pic: ali_k
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/KazemiAli_
+    - title: linkedin
+      url: https://www.linkedin.com/in/ali-kazemi-arani-a8739552/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
