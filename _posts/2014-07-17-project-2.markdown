@@ -10,7 +10,7 @@ alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: Analysis and assessment of data quality for software vulnerability data sets and sources. 
+description: Analysis and assessment of data quality for software vulnerability data sets and sources.
 ---
 
 # Overview
@@ -22,7 +22,9 @@ In this project, we analyse the data quality of software vulnerability informati
 
 # Publication
 
-[Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review. 2021.](https://arxiv.org/abs/2109.05740)
+ - [Noisy Label Learning for Security Defects. 2022.](https://arxiv.org/pdf/2203.04468.pdf)
+ - [An Investigation into Inconsistency of Software Vulnerability Severity across Data Sources. 2022.](https://arxiv.org/pdf/2112.10356.pdf)
+ - [Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review. 2021.](https://arxiv.org/abs/2109.05740)
 
 # Project Members
 

@@ -10,14 +10,19 @@ alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: TBD. 
+description: Making intelligent phishing detectors more secure.
 ---
 
 # Overview
 
-TBD.
+Due to the sheer number of attacks, machine learning has become a popular choice for phishing detection systems. However, an intelligent attack can easily fool or get around these detection systems via adversarial inputs.
+
+We investigate the types of attacks that an adversary may perform, and provide defences against them. 
 
 # Publications
+
+- [ReinforceBug: A framework to generate adversarial textual examples. 2021.](https://arxiv.org/pdf/2103.08306.pdf)  
+- [An evasion attack against ml-based phishing url detectors. 2020.](https://arxiv.org/pdf/2005.08454.pdf)  
 
 # Team Members
 

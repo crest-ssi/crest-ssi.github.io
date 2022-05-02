@@ -10,16 +10,26 @@ alt: svp
 project-date: March 2022
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: Development of tools for early, fine-grained detection and assessment of software vulnerabilities. 
+description: Development of tools for early, fine-grained detection and assessment of software vulnerabilities.
 ---
 
 # Overview
 
-TBD.
+Modern software engineering paradigms embrace 'shift left' ideology; shift the security consideration to as early as possible in the development lifecycle. After all, proactive prevention is significantly cheaper than reactive fixing and patching.
+
+However, developing secure code is no easy task. We enable this transition through intelligent data-driven tool support, that operates 'just-in-time' before vulnerabilities would enter a codebase.
+
 
 # Publications
 
-
+- [LineVD: Statement-level Vulnerability Detection using Graph Neural Networks. 2022.](https://arxiv.org/abs/2203.05181)  
+- [On the Use of Fine-grained Vulnerable Code Statements for Software Vulnerability Assessment Models. 2022.](https://arxiv.org/pdf/2203.08417.pdf)  
+- [Automated Security Assessment for the Internet of Things. 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9667743)  
+- [Deepcva: Automated commit-level vulnerability assessment with deep multi-task learning. 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9678622)  
+- [A Survey on Data-driven Software Vulnerability Assessment and Prioritization. 2021.](https://arxiv.org/abs/2107.08364)  
+- [Deep Learning for Source Code Modeling and Generation: Models, Applications, and Challenges. 2021.](https://dl.acm.org/doi/abs/10.1145/3383458)  
+- [An empirical study of rule-based and learning-based approaches for static application security testing. 2020.](https://dl.acm.org/doi/pdf/10.1145/3475716.3475781)
+- [Automated Software Vulnerability Assessment with Concept Drift. 2019.](https://ieeexplore.ieee.org/abstract/document/8816739)  
 
 # Project Members
 
