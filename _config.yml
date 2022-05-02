@@ -16,56 +16,71 @@ people:
   pic: ali
   position: CREST Director
   social:
+    - title: link
+      url: https://malibabar.wordpress.com/
     - title: twitter
       url: https://twitter.com/alibabar
-
-- name: Dr. Huaming Chen
-  pic: huaming
-  position: Researcher
-  social:
-    - title: twitter
-      url: https://twitter.com/
+    - title: linkedin
+      url: https://au.linkedin.com/in/muhammad-ali-babar-5bb4884
 
 - name: Triet Le
   pic: triet
   position: PhD. Student
   social:
+    - title: link
+      url: https://sites.google.com/site/triethmle
     - title: twitter
-      url: https://twitter.com/
+      url: https://twitter.com/lhmtriet
+    - title: linkedin
+      url: https://www.linkedin.com/in/triet-le-274407133/
 
 - name: Roland Croft
   pic: roland
   position: PhD. Student
   social:
+    - title: link
+      url: https://rolandcroft.github.io/
     - title: twitter
       url: https://twitter.com/CroftRoland
+    - title: linkedin
+      url: https://www.linkedin.com/in/rolandcroft/
 
 - name: Yongzheng (Craig) Xie
   pic: craig
   position: PhD. Student
   social:
     - title: twitter
-      url: https://twitter.com/
-      
+      url: https://twitter.com/craig_xie
+    - title: linkedin
+      url: https://www.linkedin.com/in/craig-xie-b78aa75b/
+
 - name: Mubin Ul Haque
   pic: mubin
   position: PhD. Student
   social:
     - title: twitter
-      url: https://twitter.com/
+      url: https://twitter.com/Mubin_Swarup
+    - title: linkedin
+      url: https://www.linkedin.com/in/mubin-haque-487a57a5/
 
 - name: Bushra Sabir
   pic: bushra
   position: PhD. Student
   social:
     - title: twitter
-      url: https://twitter.com/
+      url: https://twitter.com/Bushra_Sabir
+    - title: linkedin
+      url: https://www.linkedin.com/in/bushra-sabir-8a51086a/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: link
+    url: https://www.crest-centre.net/
   - title: twitter
     url: https://twitter.com/crest_uofa
+  - title: linkedin
+    url: https://www.linkedin.com/company/72018457/
 
 # Postal address (add as many lines as necessary)
 address:
