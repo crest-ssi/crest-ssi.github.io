@@ -30,3 +30,4 @@ In this project, we analyse the data quality of software vulnerability informati
 
 - Triet Le
 - Roland Croft
+- Mehdi Kholoosi
