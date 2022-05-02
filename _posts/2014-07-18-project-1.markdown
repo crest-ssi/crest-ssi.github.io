@@ -35,4 +35,4 @@ However, developing secure code is no easy task. We enable this transition throu
 
 - Triet Le
 - Roland Croft
-- David Hin
+- Mehdi Kholoosi
